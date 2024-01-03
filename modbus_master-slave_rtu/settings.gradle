@@ -1,0 +1,4 @@
+rootProject.name = 'modbus_master_rtu'
+
+include 'mbrtu'
+
